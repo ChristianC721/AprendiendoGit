@@ -2,5 +2,6 @@ body{
     background-color: blue;
     font-weight: bold; /*bold es para letra negrita*/
     color:beige; /*color de letra*/
-    font-size: 18px;
+    font-size: 20px;
+    padding-left: 4rem;
 }
