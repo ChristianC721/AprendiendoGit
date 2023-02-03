@@ -1,7 +1,7 @@
 body{
-    background-color: blue;
+    background-color: burlywood;
     font-weight: bold; /*bold es para letra negrita*/
-    color:beige; /*color de letra*/
+    color: brown; /*color de letra*/
     font-size: 20px;
     padding-left: 4rem;
 }
